@@ -1,0 +1,4 @@
+Assumptions:
+
+1) Jboss(WildFly) Application Server - Version 10.1.0 is installed on the system
+2) Mysql database is installed on the system already.

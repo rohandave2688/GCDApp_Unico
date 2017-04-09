@@ -1,0 +1,21 @@
+09/04/2017 19:37:23,696 DEBUG [RestPushServiceImpl] - 
+
+ ........RestPushServiceImpl() ........
+
+
+09/04/2017 19:40:10,302 DEBUG [RestPushServiceImpl] - 
+
+ ........RestPushServiceImpl() ........
+
+
+09/04/2017 19:40:10,446 DEBUG [RestPushServiceImpl] - 
+
+ ........RestPushServiceImpl() ........
+
+
+09/04/2017 19:40:10,642 DEBUG [RestPushServiceImpl] - 
+ param1 = 20 .. param2 = 16
+09/04/2017 19:40:10,655 DEBUG [GCDSoapServiceImpl] - Computing GCD for param1:16 param2:20
+09/04/2017 21:50:57,216 DEBUG [RestPushServiceImpl] - 
+ param1 = 20 .. param2 = 16
+09/04/2017 21:50:57,231 DEBUG [GCDSoapServiceImpl] - Computing GCD for param1:16 param2:20
